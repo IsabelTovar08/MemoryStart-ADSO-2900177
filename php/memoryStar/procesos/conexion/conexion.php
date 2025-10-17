@@ -8,7 +8,7 @@ class conexion {
     public function __construct(){
         $this->servidor = "localhost";
         $this->usuario = "postgres";
-        $this->password = "123456";
+        $this->password = "Cuellar12345*";
         $this->puerto = "5432";
         $this->baseDatos = "corredor ";
     }
